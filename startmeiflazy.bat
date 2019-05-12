@@ -1,4 +1,4 @@
 @echo off
 color 0b
-python API_BOT.py
+python (encrypted)API_BOT.py
 pause
